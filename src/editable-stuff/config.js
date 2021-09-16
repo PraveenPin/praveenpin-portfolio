@@ -50,7 +50,7 @@ const about = {
   imageLink: require("../assets/img/picture.jpeg"),
   imageSize: 375,
   message:
-    "My name is Praveen Pinjala. I’m a Computer Science Graduate Student at Rutges University, New Jersey, U.S. I'm most passionate about developing web applications with new technologies, and my goal is to pursue this passion within the field of Computer Science.",
+    "My name is Praveen Pinjala. I’m a Computer Science Graduate Student at Rutgers University, New Jersey, U.S. I'm most passionate about developing web applications with new technologies, and my goal is to pursue this passion within the field of Computer Science.",
   resume: require("../assets/Resume.pdf"),
 };
 
@@ -220,7 +220,7 @@ const experiences = [
     "title": "Full Stack Web Developer",
     "years": "Jul.2018 - Jan.2021",
     "mainTech": [
-      "ReactJS + Redux, Spring Java, Oracle SQl"
+      "ReactJS + Redux, Spring Java, Oracle SQL"
     ],
     "technologies": [
       "REST API",

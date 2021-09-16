@@ -490,6 +490,12 @@ footer a:focus {
 	}
 }
 
+@media only screen and (max-width: 767px) { 
+	.main-badge {
+		font-size: 13px !important;
+	}
+}
+
 #resume {
 	.section-title {
 	   color: white !important;
