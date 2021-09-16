@@ -5,14 +5,13 @@
   "version": "2.0.0",
   "private": true,
   "author": {
-    "name": "Praveen Pinjala",
+    "name": "Praveen pinjala",
     "email": "praveen123pinjala@gmail.com",
     "url": "https://github.com/PraveenPin"
   },
   "dependencies": {
     "axios": "^0.19.2",
     "bootstrap": "^4.5.2",
-    "gh-pages": "^2.2.0",
     "jquery": "^3.5.1",
     "node-sass": "^4.14.1",
     "prop-types": "^15.7.2",
@@ -24,7 +23,14 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "^3.4.4",
     "react-typist": "^2.0.5",
-    "typescript": "^3.9.7"
+    "typescript": "^3.9.7",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "react-awesome-slider": "^4.1.0",
+    "react-switch": "^5.0.1",
+    "react-typical": "^0.1.3",
+    "react-vertical-timeline-component": "^3.3.1"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -34,6 +40,12 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "custom-deploy": "node pages.js"
+  },
+  "devDependencies": {
+    "@iconify/icons-logos": "^1.0.12",
+    "@iconify/react": "^1.1.3",
+    "gh-pages": "^2.2.0",
+    "node-sass": "^4.14.1"
   },
   "eslintConfig": {
     "extends": "react-app"
