@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Praveen",
   middleName: "",
   lastName: "Pinjala",
-  message: " Passionate about developing services to empower ant set of people. ",
+  message: " Web Developer | Engineer | Programmer | Sports Enthusiast ",
   icons: [
     {
       image: "fa-github",
