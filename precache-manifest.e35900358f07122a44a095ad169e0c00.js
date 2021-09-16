@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0071baabe749f7363ec90c1d4285c5c5",
+    "revision": "be7bd01057ffad5e603885fb3159eb82",
     "url": "/praveenpin-portfolio/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/praveenpin-portfolio/static/css/2.cb9e76b4.chunk.css"
   },
   {
-    "revision": "908c6a3ecde09838b6b2",
-    "url": "/praveenpin-portfolio/static/css/main.b1a3f199.chunk.css"
+    "revision": "6fc65578f0d2fc6c9b97",
+    "url": "/praveenpin-portfolio/static/css/main.f726cba2.chunk.css"
   },
   {
     "revision": "e1b6605eb02094ac2af6",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/praveenpin-portfolio/static/js/2.cda536ca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "908c6a3ecde09838b6b2",
-    "url": "/praveenpin-portfolio/static/js/main.673d2335.chunk.js"
+    "revision": "6fc65578f0d2fc6c9b97",
+    "url": "/praveenpin-portfolio/static/js/main.6adb35a5.chunk.js"
   },
   {
     "revision": "652702586b68ad183bee",
