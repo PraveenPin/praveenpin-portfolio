@@ -5,10 +5,10 @@
 
   <p align="center">
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
-    <a href="https://praveenpinjala.github.io/home">hashirshoaeb.github.io/home</a>
+    <a href="http://praveenpin.github.io/praveenpin-portfolio/">praveenpinjala.github.io</a>
     <br />
     <br />
-    <a href="https://praveenpinjala.github.io">About Me</a>
+    <a href="http://praveenpin.github.io/praveenpin-portfolio/">About Me</a>
   </p>
 </p>
 
